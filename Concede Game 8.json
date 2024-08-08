@@ -1,0 +1,32 @@
+[
+{
+   "score": "Saints 4-4 Catalan",
+   "minute": 32,
+   "team": "Catalan Dragons",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Mata'utia"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Clark"},{"name":"Delaney"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 4-6 Catalan",
+   "minute": 32,
+   "team": "Catalan Dragons",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Mata'utia"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Clark"},{"name":"Delaney"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 8-10",
+   "minute": 65,
+   "team": "Catalan Dragons",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Mata'utia"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Mbye"},{"name":"Delaney"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 8-12",
+   "minute": 66,
+   "team": "Catalan Dragons",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Mata'utia"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Mbye"},{"name":"Delaney"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 8-14",
+   "minute": 76,
+   "team": "Catalan Dragons",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Mata'utia"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Mbye"},{"name":"Delaney"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Knowles"}]
+}
+]

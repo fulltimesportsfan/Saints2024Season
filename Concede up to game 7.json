@@ -1,0 +1,98 @@
+[
+  {
+   "score": "Saints 20-4 London",
+   "minute": 44,
+   "team": "London 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Percival"},{"name":"Blake"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Wingfield"},{"name":"Clark"},{"name":"Delaney"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Mata'utia"}]
+},
+{
+"score": "Saints 4 - 4 Leigh",
+   "minute": 46,
+   "team": "Leigh 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Percival"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Clark"},{"name":"Delaney"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Wingfield"}]
+},
+  {
+   "score": "Saints 8-4 Salford",
+   "minute": 25,
+   "team": "Salford 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Blake"},{"name":"Percival"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Clark"},{"name":"Delaney"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 8-6 Salford",
+   "minute": 26,
+   "team": "Salford 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Blake"},{"name":"Percival"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Clark"},{"name":"Delaney"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 20-10 Salford",
+   "minute": 64,
+   "team": "Salford 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Clark"},{"name":"Delaney"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Wingfield"}]
+},
+{
+   "score": "Saints 20-12 Salford",
+   "minute": 64,
+   "team": "Salford 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Clark"},{"name":"Delaney"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Wingfield"}]
+},
+{
+   "score": "Saints 20-16 Salford",
+   "minute": 70,
+   "team": "Salford 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Clark"},{"name":"Delaney"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Wingfield"}]
+},
+{
+   "score": "Saints 20-18 Salford",
+   "minute": 71,
+   "team": "Salford 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Clark"},{"name":"Delaney"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Wingfield"}]
+},
+{
+   "score": "Saints 20-22 Salford",
+   "minute": 75,
+   "team": "Salford 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Clark"},{"name":"Delaney"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Wingfield"}]
+},
+{
+   "score": "Saints 20-24 Salford",
+   "minute": 76,
+   "team": "Salford 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Clark"},{"name":"Delaney"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Wingfield"}]
+},
+  {
+   "score": "Saints 0-4 Leeds",
+   "minute": 10,
+   "team": "Leeds 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Walmsley"},{"name":"Clark"},{"name":"Lees"},{"name":"Whitley"},{"name":"Mata'utia"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 0-6 Leeds",
+   "minute": 11,
+   "team": "Leeds 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Walmsley"},{"name":"Clark"},{"name":"Lees"},{"name":"Whitley"},{"name":"Mata'utia"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 0-8 Leeds",
+   "minute": 24,
+   "team": "Leeds 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Walmsley"},{"name":"Clark"},{"name":"Lees"},{"name":"Whitley"},{"name":"Mata'utia"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 4-4 Leeds ",
+   "minute": 27,
+   "team": "Leeds Challenge Cup",
+   "players": [{"name":"Welsby"},{"name":"Bennison"},{"name":"Hurrell"},{"name":"Mata'utia"},{"name":"Blake"},{"name":"Lomax"},{"name":"Mbye"},{"name":"Bell"},{"name":"Clark"},{"name":"Lees"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 4-6 Leeds ",
+   "minute": 28,
+   "team": "Leeds Challenge Cup",
+   "players": [{"name":"Welsby"},{"name":"Bennison"},{"name":"Hurrell"},{"name":"Mata'utia"},{"name":"Blake"},{"name":"Lomax"},{"name":"Mbye"},{"name":"Bell"},{"name":"Clark"},{"name":"Lees"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Knowles"}]
+},
+  {
+   "score": "Saints 2-4 Wigan",
+   "minute": 56,
+   "team": "Wigan 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Percival"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Walmsley"},{"name":"Clark"},{"name":"Wingfield"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Mbye"}]
+}
+]

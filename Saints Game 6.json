@@ -1,0 +1,43 @@
+[{
+   "score": "Saints 2-0 Leeds ",
+   "minute": 12,
+   "team": "Lomax",
+   "players": [{"name":"Welsby"},{"name":"Bennison"},{"name":"Hurrell"},{"name":"Mata'utia"},{"name":"Blake"},{"name":"Lomax"},{"name":"Mbye"},{"name":"Walmsley"},{"name":"Clark"},{"name":"Lees"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 4-0 Leeds ",
+   "minute": 16,
+   "team": "Lomax",
+   "players": [{"name":"Welsby"},{"name":"Bennison"},{"name":"Hurrell"},{"name":"Mata'utia"},{"name":"Blake"},{"name":"Lomax"},{"name":"Mbye"},{"name":"Walmsley"},{"name":"Clark"},{"name":"Lees"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 8-6 Leeds ",
+   "minute": 39,
+   "team": "Clark",
+   "players": [{"name":"Welsby"},{"name":"Bennison"},{"name":"Hurrell"},{"name":"Mata'utia"},{"name":"Blake"},{"name":"Lomax"},{"name":"Mbye"},{"name":"Bell"},{"name":"Clark"},{"name":"Wingfield"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Delaney"}]
+},
+{
+   "score": "Saints 10-6 Leeds ",
+   "minute": 40,
+   "team": "Lomax",
+   "players": [{"name":"Welsby"},{"name":"Bennison"},{"name":"Hurrell"},{"name":"Mata'utia"},{"name":"Blake"},{"name":"Lomax"},{"name":"Mbye"},{"name":"Bell"},{"name":"Clark"},{"name":"Wingfield"},{"name":"Whitley"},{"name":"Sironen"},{"name":"Delaney"}]
+},
+{
+   "score": "Saints 14-6 Leeds ",
+   "minute": 61,
+   "team": "Bennison",
+   "players": [{"name":"Welsby"},{"name":"Bennison"},{"name":"Hurrell"},{"name":"Mata'utia"},{"name":"Blake"},{"name":"Lomax"},{"name":"Mbye"},{"name":"Bell"},{"name":"Wingfield"},{"name":"Whitley"},{"name":"Batchelor"},{"name":"Delaney"}]
+},
+{
+   "score": "Saints 16-6 Leeds ",
+   "minute": 61,
+   "team": "Lomax",
+   "players": [{"name":"Welsby"},{"name":"Bennison"},{"name":"Hurrell"},{"name":"Mata'utia"},{"name":"Blake"},{"name":"Lomax"},{"name":"Mbye"},{"name":"Bell"},{"name":"Wingfield"},{"name":"Whitley"},{"name":"Batchelor"},{"name":"Delaney"}]
+},
+{
+   "score": "Saints 20-6 Leeds ",
+   "minute": 70,
+   "team": "Walmsley",
+   "players": [{"name":"Welsby"},{"name":"Bennison"},{"name":"Hurrell"},{"name":"Mata'utia"},{"name":"Blake"},{"name":"Lomax"},{"name":"Mbye"},{"name":"Bell"},{"name":"Lees"},{"name":"Whitley"},{"name":"Batchelor"},{"name":"Delaney"},{"name":"Clark"}]
+}
+]

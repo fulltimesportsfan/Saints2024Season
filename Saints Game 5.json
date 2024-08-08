@@ -1,0 +1,37 @@
+[{
+   "score": "Saints 4-8 Leeds",
+   "minute": 34,
+   "team": "Blake",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Clark"},{"name":"Wingfield"},{"name":"Whitley"},{"name":"Mata'utia"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 6-8 Leeds",
+   "minute": 35,
+   "team": "Lomax",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Clark"},{"name":"Wingfield"},{"name":"Whitley"},{"name":"Mata'utia"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 10-8 Leeds",
+   "minute": 57,
+   "team": "Bennison",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Clark"},{"name":"Wingfield"},{"name":"Whitley"},{"name":"Mata'utia"},{"name":"Delaney"}]
+},
+{
+   "score": "Saints 12-8 Leeds",
+   "minute": 59,
+   "team": "Lomax",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Clark"},{"name":"Wingfield"},{"name":"Whitley"},{"name":"Mata'utia"},{"name":"Delaney"}]
+},
+{
+   "score": "Saints 16-8 Leeds",
+   "minute": 60,
+   "team": "Mbye",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Mbye"},{"name":"Wingfield"},{"name":"Whitley"},{"name":"Mata'utia"},{"name":"Delaney"}]
+},
+{
+   "score": "Saints 18-8 Leeds",
+   "minute": 62,
+   "team": "Lomax",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Bell"},{"name":"Mbye"},{"name":"Wingfield"},{"name":"Whitley"},{"name":"Mata'utia"},{"name":"Delaney"}]
+}
+]
