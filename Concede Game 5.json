@@ -1,0 +1,20 @@
+[
+  {
+   "score": "Saints 0-4 Leeds",
+   "minute": 10,
+   "team": "Leeds 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Walmsley"},{"name":"Clark"},{"name":"Lees"},{"name":"Whitley"},{"name":"Mata'utia"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 0-6 Leeds",
+   "minute": 11,
+   "team": "Leeds 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Walmsley"},{"name":"Clark"},{"name":"Lees"},{"name":"Whitley"},{"name":"Mata'utia"},{"name":"Knowles"}]
+},
+{
+   "score": "Saints 0-8 Leeds",
+   "minute": 24,
+   "team": "Leeds 1",
+   "players": [{"name":"Welsby"},{"name":"Makinson"},{"name":"Hurrell"},{"name":"Blake"},{"name":"Bennison"},{"name":"Lomax"},{"name":"Dodd"},{"name":"Walmsley"},{"name":"Clark"},{"name":"Lees"},{"name":"Whitley"},{"name":"Mata'utia"},{"name":"Knowles"}]
+}
+]
